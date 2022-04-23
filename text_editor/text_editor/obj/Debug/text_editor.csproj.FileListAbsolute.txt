@@ -1,0 +1,11 @@
+C:\Users\HoangNout\Videos\text_editor\text_editor\text_editor\bin\Debug\text_editor.exe.config
+C:\Users\HoangNout\Videos\text_editor\text_editor\text_editor\bin\Debug\text_editor.exe
+C:\Users\HoangNout\Videos\text_editor\text_editor\text_editor\bin\Debug\text_editor.pdb
+C:\Users\HoangNout\Videos\text_editor\text_editor\text_editor\obj\Debug\text_editor.csproj.AssemblyReference.cache
+C:\Users\HoangNout\Videos\text_editor\text_editor\text_editor\obj\Debug\text_editor.csproj.SuggestedBindingRedirects.cache
+C:\Users\HoangNout\Videos\text_editor\text_editor\text_editor\obj\Debug\text_editor.FormTextProcessor.resources
+C:\Users\HoangNout\Videos\text_editor\text_editor\text_editor\obj\Debug\text_editor.Properties.Resources.resources
+C:\Users\HoangNout\Videos\text_editor\text_editor\text_editor\obj\Debug\text_editor.csproj.GenerateResource.cache
+C:\Users\HoangNout\Videos\text_editor\text_editor\text_editor\obj\Debug\text_editor.csproj.CoreCompileInputs.cache
+C:\Users\HoangNout\Videos\text_editor\text_editor\text_editor\obj\Debug\text_editor.exe
+C:\Users\HoangNout\Videos\text_editor\text_editor\text_editor\obj\Debug\text_editor.pdb
